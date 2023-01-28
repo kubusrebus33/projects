@@ -1,0 +1,1 @@
+Projekt zaliczeniowy na studia z aplikacji internetowych, wykorzystane technologie: PHP + laravel, MySQL
